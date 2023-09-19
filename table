@@ -1,0 +1,71 @@
+<html>
+<head>
+<title>table tag</title>
+</head>
+<body>
+<table border="5" align="center"  cellspacing="10" bordercolor="green" cellpadding="15">
+<tr><th bgcolor="pink">Day</th>
+	<th bgcolor="pink">9:30-10:30</th>
+	<th bgcolor="pink">10:30-11:30</th>
+	<th bgcolor="pink">11:30-11:40</th>
+	<th bgcolor="pink">11:40-12:40</th>
+	<th bgcolor="pink">12:40-1:40</th>
+	<th bgcolor="pink">1:40-2:15</th>
+	<th bgcolor="pink">2:15-3:15</th>
+	<th bgcolor="pink">3:15-4:15</th>
+</tr>
+<tr align="center"><td bgcolor="pink" >Mon</td>
+	<td>AI</td>
+	<td>DM</td>
+	<td rowspan="6" bgcolor="pink" align="center">break</td>
+	<td>DAA</td>
+	<td>SE</td>
+	<td rowspan="6" bgcolor="pink">lunch break</td>
+	<td colspan="2" >MAD LAB</td>
+</tr>
+<tr align="center"><td bgcolor="pink" >tue</td>
+	<td colspan="2">FSD LAB</td>
+	<td>AT</td>
+	<td>SE</td>
+	<td>DM</td>
+	<td>AI</td>
+</tr>
+<tr align="center"><td bgcolor="pink" >wed</td>
+	<td>DAA</td>
+	<td>AT</td>
+	<td colspan="2" >FSD LAB</td>
+	<td>OOSD</td>
+	<td>DM</td>
+</tr>
+<tr align="center"><td bgcolor="pink" >Thr</td>
+	<td>OOSD</td>
+	<td>SE</td>
+	<td>AI</td>
+	<td>DAA</td>
+	<td colspan="2">AI LAB</td>
+</tr>
+<tr align="center"><td bgcolor="pink">fri</td>
+	<td colspan="2" >MAD LAB</td>
+	<td>AI</td>
+	<td>OOSD</td>
+	<td>AT</td>
+	<td>DAA</td>
+</tr>
+<tr align="center"><td bgcolor="pink">Sat</td>
+	<td>DM</td>
+	<td>SE</td>
+	<td>AT</td>
+	<td>OOSD</td>
+	<td colspan="2">LIBRARY</td>
+</tr>
+
+<table border="5" align="center"  cellspacing="10" bordercolor="black" cellpadding="15">
+<tr ><th bgcolor="pink">sub code</th>
+	<th> name of the subject</th>
+	<th> faculty name</th>
+<tr><td>U21PC501IT</td>
+	<td>software engineering</td>
+	<td>DR.KVG rao</td>
+</table>
+</body>
+</html>
