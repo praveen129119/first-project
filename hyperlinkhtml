@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>list</title>
+</head>
+<body>
+<dl>
+	<dt>mvsrec</dt>
+	<dd>Maturi venkata subbaRao Engineering college</dd>
+	
+</dl>
+
+<A HREF="http://www.mvsrec.edu.in"
+target="blank">visit link to our college website </A>
