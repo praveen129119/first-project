@@ -1,0 +1,12 @@
+<head>
+<title> list demo</title>
+</head>
+<body>
+<ol type="a">
+	<li>AUTO</li>
+	<li>civil</li>
+	<li>CSE</li>
+	<li>ECE</li>
+	<li>EEE</li>
+	<li>IT</li>
+</ol>
