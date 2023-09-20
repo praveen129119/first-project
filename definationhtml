@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Defination list</title>
+</head>
+<body>
+<dl>
+	<dt>HTML</dt>
+	<dd>Hyper text markup language</dd>
+	<dd>my name is praveen</dd>
+</dl>
